@@ -5,3 +5,4 @@
 * Use `git add filename` to add a file or `git add .` to add all files.
 * You could add all changed files and create commit by `git commit -am "commit message"` command.
 * New files were not added in the commit.
+* You can add current index in previous commit by `--amend` key.
